@@ -1,6 +1,13 @@
 ### Yufan Zheng 👋
 
+——————————————————————————————————————————————————————————————————————————
+
+- 🔭 I’m currently working on [Huangpu Institute Of Materials](https://www.ciachiam.cn/###).
+- 🌱 I’m a undergraduate and looking for a PhD position starting in the 2022/2023 fall.
+
+
 Peasonal Website : https://yufanzheng.github.io/index.html
+
 
 <!--
 **YufanZheng/YufanZheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
