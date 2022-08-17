@@ -3,7 +3,7 @@
 —————————————————————————————————————————————————
 
 - 🔭 I’m currently working on [Huangpu Institute Of Materials](https://www.ciachiam.cn/###).
-- 🌱 I’m a undergraduate and looking for a PhD position starting in the 2022/2023 fall.
+- 🌱 I’m a undergraduate and looking for a PhD position starting in the 2023 fall.
 
 
 Peasonal Website : https://yufanzheng.github.io
